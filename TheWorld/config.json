@@ -1,0 +1,11 @@
+﻿{
+    "MailSettings": {
+        "ToAddress": "admin@theworld.com"
+    },
+    "ConnectionStrings": {
+        "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=True;MultipleActiveResultSets=true;"
+    },
+    "Keys": {
+        "BingKey": "DONTEVERPUTKEYSINSOURCECONTROL"
+    }
+}
